@@ -9,7 +9,7 @@ version 1.3
 Takes Analog Sensor input from Reed Switches and passes them along the serial connection.
 
 
-Changelog
+*Changelog*
 == Version 1.3 ==
 Increased TX Delay. Code is pretty much final.
 
